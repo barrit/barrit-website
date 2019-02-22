@@ -1,3 +1,4 @@
 baseURL = "https://barrit.be"
 languageCode = "be-nl"
-title = "Bart Dupon"
+title = "barrit.be"
+theme = "hugo-primer"
