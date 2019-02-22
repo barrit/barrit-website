@@ -4,3 +4,7 @@
 [submodule "themes/hugo-primer"]
 	path = themes/hugo-primer
 	url = https://github.com/qqhann/hugo-primer.git
+[submodule "public"]
+	path = public
+	url = https://github.com/barrit/barrit.github.io.git
+	branch = master
