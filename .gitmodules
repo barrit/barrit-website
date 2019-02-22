@@ -1,0 +1,6 @@
+[submodule "themes/starter"]
+	path = themes/starter
+	url = https://github.com/jimfrenette/hugo-starter.git
+[submodule "themes/hugo-primer"]
+	path = themes/hugo-primer
+	url = https://github.com/qqhann/hugo-primer.git
