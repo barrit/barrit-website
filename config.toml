@@ -1,4 +1,29 @@
 baseURL = "https://barrit.be"
 languageCode = "be-nl"
-title = "barrit.be"
-theme = "hugo-primer"
+title = "Dit is barrit"
+theme = "vanilla-bootstrap-hugo-theme"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Blog"
+    pre = "edit"
+    url = "/posts/"
+    weight = 3
+  [[menu.nav]]
+    name = "Info"
+    pre = "smile"
+    url = "/info/"
+    weight = 4
+
+[params]
+  includeBootstrapJs = false
+  showActiveNav = true
+  containerMaxWidth = "900px"
+  dateFormat = "02/01/2006"
+  homeText = "ik gebruik deze website om mezelf [Hugo](https://gohugo.io) aan te leren. Kijk gerust mee."
+  footerText = "Gemaakt met [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"

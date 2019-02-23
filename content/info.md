@@ -5,6 +5,6 @@ date: 2019-02-22T21:50:07+01:00
 draft: false
 ---
 
-# Wat is dit
+{{< icon github >}} [Github](https://github.com/barrit)
 
-Wel, ik gebruik deze website om mezelf [Hugo](https://gohugo.io) aan te leren. Kijk gerust mee.
+{{< icon linkedin >}} [LinkedIn](https://www.linkedin.com/in/dupon/)

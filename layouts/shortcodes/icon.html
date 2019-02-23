@@ -1,0 +1,3 @@
+{{ $what := .Get 0}}
+{{ $icon := printf "<i data-feather=\"%s\"></i>" $what }}
+{{ print $icon | safeHTML }}
